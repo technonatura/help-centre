@@ -1,0 +1,16 @@
+- name: Get Started
+  slug: getting-started
+  description: How to start using this Gatsby theme for your product's help center
+  image: /images/getting-started.svg
+- name: TechnoNatura Dashboard
+  slug: dashboard
+  description: Help Centre mengenai TechnoNatura Dashboard
+  image: /images/dashboard.svg
+- name: Security
+  slug: security
+  description: The security guidelines
+  image: /images/security.svg
+- name: FAQs
+  slug: faqs
+  description: Frequently asked questions about this theme (according to projections)
+  image: /images/faqs.svg
